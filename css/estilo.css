@@ -7,7 +7,7 @@ body
 {
  
  background-size:cover;
- background-image: linear-gradient(to bottom, rgba(0,0,0,0.3)0%,rgba(0,0,0,0.3)100%),url(/home/borrero_vizcaino/Escritorio/Fauna/photo/Org201205010600128630000.gif);
+ background-image: linear-gradient(to bottom, rgba(0,0,0,0.3)0%,rgba(0,0,0,0.3)100%),url(../photo/fondo.gif);
  }
  h1{color:white;
  }
